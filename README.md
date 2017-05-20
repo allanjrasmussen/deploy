@@ -1,13 +1,14 @@
 # deploy
-HVORDAN ÆNDRES ET DJANGO SÅ DET KØRER PÅ SERVER?
+HVORDAN ÆNDRES ET DJANGOPROJEKT SÅ DET KØRER PÅ EN SERVER?
 
-How to deploy Django project?
+How to deploy a Django project?
 
-Jeg har et Django project, som jeg vil kører i produktion på Google Cloud virtual Enviroment?
+Jeg har et Djangoproject, som jeg vil kører i produktion på Google Cloud virtual Engine?
 
 I want it to run on google cloud virtual engine.
 
 Er der nogen, som har forslag til, hvordan det håndteres?
 
-Do you have any suggestions?
+Do you have any suggestions? Do you know some other who can?
+
 
