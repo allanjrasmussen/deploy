@@ -9,6 +9,6 @@ I want it to run on google cloud virtual engine.
 
 Er der nogen, som har forslag til, hvordan det håndteres?
 
-Do you have any suggestions? Do you know some other who can?
+Do you have any suggestions? Do you know some other who can add help?
 
 
